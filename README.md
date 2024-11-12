@@ -1,5 +1,4 @@
 # SepsisAnalysis
-# SepsisProject_Tableau
 In the U.S., nearly 1.7 million people develop sepsis, and 270,000 people die from it each year. Over one-third of individuals who pass away in U.S. hospitals have sepsis. Globally, approximately 30 million people develop sepsis, resulting in 6 million deaths annually. Managing sepsis in U.S. hospitals costs $24 billion annually, which accounts for 13% of U.S. healthcare expenses. A majority of these costs are associated with patients who develop sepsis during their hospital stay. The developing world faces additional expenses for sepsis management and an increased risk of adverse outcomes. Overall, sepsis is a significant public health issue, leading to substantial morbidity, mortality, and healthcare expenses. The reliable and early identification of sepsis is often challenging due to its syndromic nature, contributing to delays in treatment.
 
 ![SIRS_flowchart](https://github.com/KrishnaVidja/SepsisProject_Tableau/assets/106781881/ab3ec548-d1e1-4820-bfdc-0e23bc0d5fa2)
